@@ -1,3 +1,9 @@
+ul {
+  list-style: none;
+}
+.list {
+  list-style: none;
+}
 .logo span {
   color: #2196f3;
 }
@@ -172,4 +178,49 @@
 
   color: #ffffff;
   background-color: #2f303a;
+}
+.footer-color-background {
+  background-color: #2f303a;
+}
+.nav-portfolio {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+  background: #f5f4fa;
+}
+.nav-portfolio:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+.nav-portfolio-all {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.06em;
+
+  color: #212121;
+}
+.nav-portfolio-all-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height, or 188% */
+
+  letter-spacing: 0.03em;
+
+  color: #757575;
 }
